@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\udemyprojeler\udemy\Uçuş_Rezarvasyon_Sistemi\bin\Debug\Uçuş_Rezarvasyon_Sistemi.exe.config
+C:\Users\Monster\Desktop\udemyprojeler\udemy\Uçuş_Rezarvasyon_Sistemi\bin\Debug\Uçuş_Rezarvasyon_Sistemi.exe
+C:\Users\Monster\Desktop\udemyprojeler\udemy\Uçuş_Rezarvasyon_Sistemi\bin\Debug\Uçuş_Rezarvasyon_Sistemi.pdb
+C:\Users\Monster\Desktop\udemyprojeler\udemy\Uçuş_Rezarvasyon_Sistemi\obj\Debug\Uçuş_Rezarvasyon_Sistemi.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\udemyprojeler\udemy\Uçuş_Rezarvasyon_Sistemi\obj\Debug\Uçuş_Rezarvasyon_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\udemyprojeler\udemy\Uçuş_Rezarvasyon_Sistemi\obj\Debug\Uçuş_Rezarvasyon_Sistemi.Form1.resources
+C:\Users\Monster\Desktop\udemyprojeler\udemy\Uçuş_Rezarvasyon_Sistemi\obj\Debug\Uçuş_Rezarvasyon_Sistemi.Properties.Resources.resources
+C:\Users\Monster\Desktop\udemyprojeler\udemy\Uçuş_Rezarvasyon_Sistemi\obj\Debug\Uçuş_Rezarvasyon_Sistemi.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\udemyprojeler\udemy\Uçuş_Rezarvasyon_Sistemi\obj\Debug\Uçuş_Rezarvasyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\udemyprojeler\udemy\Uçuş_Rezarvasyon_Sistemi\obj\Debug\Uçuş_Rezarvasyon_Sistemi.exe
+C:\Users\Monster\Desktop\udemyprojeler\udemy\Uçuş_Rezarvasyon_Sistemi\obj\Debug\Uçuş_Rezarvasyon_Sistemi.pdb
